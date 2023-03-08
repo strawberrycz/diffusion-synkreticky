@@ -115,5 +115,3 @@ GenerationServiceClient.prototype.chainGenerate = function chainGenerate(request
 
 exports.GenerationServiceClient = GenerationServiceClient;
 
-// export const GenerationServiceClient = GenerationServiceClient;
-
